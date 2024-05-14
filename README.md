@@ -1,2 +1,2 @@
-# HiyaKotlin
+# YaKotlin
 Practice Kotlin 
