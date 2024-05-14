@@ -1,2 +1,2 @@
 # HiyaKotlin
-Practice Kotlin Essentials
+Practice Kotlin 
